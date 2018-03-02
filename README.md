@@ -1,3 +1,2 @@
-# HowGit
-How can we start github
-https://github.com/watrtdc/HowGit/wiki
+# Just Start github
+https://github.com/watrtdc/HowGit/wiki ← here
